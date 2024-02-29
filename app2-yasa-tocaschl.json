@@ -17,11 +17,11 @@
     "personaldirection4": "https://play.google.com/store/apps/details?id=com.dizzystudio.tocaboca.cutepets.animaldressup",
 
 
-    "AppEtat": suspended,
+   "AppEtat": nosuspended,
     "testMode": false,
-    "modeads": true,
+    "modeads": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
-    "reviewActive": true
+    "reviewActive": false
   }
 }
