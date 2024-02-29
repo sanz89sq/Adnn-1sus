@@ -17,7 +17,7 @@
     "personaldirection4": "https://play.google.com/store/apps/details?id=com.lily.tocahairgoldimages",
 
 
-    "AppEtat": nosuspended,
+   "AppEtat": nosuspended,
     "testMode": false,
     "modeads": false,
     "unityBanner": "Banner_Android",
