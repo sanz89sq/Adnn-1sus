@@ -7,19 +7,19 @@
 
     "unityGameId": "5250150",
 
-      "personalnative": "https://reliable-unicorn-c39f13.netlify.app/ad.jpg",
-   "personaldirection": "https://play.google.com/store/apps/details?id=com.lily.tocahairgoldimages",
-    "personalnative2": "https://reliable-unicorn-c39f13.netlify.app/ad.jpg",
-      "personaldirection2": "https://play.google.com/store/apps/details?id=com.lily.tocahairgoldimages",
-    "personalnative3": "https://reliable-unicorn-c39f13.netlify.app/ad.jpg",
-     "personaldirection3": "https://play.google.com/store/apps/details?id=com.lily.tocahairgoldimages",
-    "personalnative4": "https://reliable-unicorn-c39f13.netlify.app/ad.jpg",
-    "personaldirection4": "https://play.google.com/store/apps/details?id=com.lily.tocahairgoldimages",
+      "personalnative": "https://raw.githubusercontent.com/sanz89sq/mrshlcnsl/main/native1.png",
+   "personaldirection": "https://play.google.com/store/apps/details?id=com.intern.keepy.uppy.blueyy",
+    "personalnative2": "https://raw.githubusercontent.com/sanz89sq/mrshlcnsl/main/native2.png",
+      "personaldirection2": "https://play.google.com/store/apps/details?id=com.intern.keepy.uppy.blueyy",
+    "personalnative3": "https://raw.githubusercontent.com/sanz89sq/mrshlcnsl/main/native3.png",
+     "personaldirection3": "https://play.google.com/store/apps/details?id=com.intern.keepy.uppy.blueyy",
+    "personalnative4": "https://raw.githubusercontent.com/sanz89sq/mrshlcnsl/main/native4.png",
+    "personaldirection4": "https://play.google.com/store/apps/details?id=com.intern.keepy.uppy.blueyy",
 
 
-   "AppEtat": nosuspended,
+    "AppEtat": nosuspended,
     "testMode": false,
-    "modeads": false,
+    "modeads": true,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
     "reviewActive": false
